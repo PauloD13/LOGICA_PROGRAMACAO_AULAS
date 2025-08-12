@@ -94,7 +94,7 @@ print(80*'=')
 inicio = input('Digite seu nome: ')
 cpf = input('Digite o seu CPF: ')
 telefone = input('Digite o seu número de celular: ')
-
+email 
 print(20*'=', "Dados Pessoais", 20*"=")
 print('Nome: ', inicio)
 print('CPF: ', cpf, '| Telefone', telefone)
