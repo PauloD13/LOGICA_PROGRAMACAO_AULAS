@@ -1,0 +1,81 @@
+[
+{
+    "Animais" : [
+        {
+            "0" : {
+                "Nome": "Capivara",
+                "Nome Cientifico": "Hydrochoerus hydrochaeris",
+                "Domesticável?": "Não"
+                
+            },
+            "1" : {
+                "Nome": "Galinha-d'angola",
+                "Nome Cientifico": "Numida meleagris",
+                "Domesticável?": "Sim"
+            },
+            "2" : {
+                "Nome": "Tatu-bola-do-nordeste",
+                "Nome Cientifico": "Tolypeutes tricinctus",
+                "Domesticável?": "Não"
+            },
+            "3" : {
+                "Nome": "Pirarucu",
+                "Nome Cientifico": "Arapaima gigas",
+                "Domesticável?": "Sim"
+            }
+
+        }
+
+
+    ],
+    "Filmes" : [
+        {
+            "0": {
+                "Nome": "O Espetacular Homem Aranha 2",
+                "Horário da Sessão": "15:40",
+                "Preço": ["Inteira: R$40,00", "Meia: R$20,00"]
+            },
+            "1" : {
+                "Nome": "Django Livre",
+                "Horário da Sessão": "18:20",
+                "Preço": ["Inteira: R$42,00", "Meia: R$21,00"]
+            },
+            "2" : {
+                "Nome": "O Fabuloso Destino de Amelie Poulain",
+                "Horário da Sessão": "19:20",
+                "Preço": ["Inteira: R$46,00", "Meia: R$23,00"]
+            },
+            "3": {
+                "Nome": "Midsommar",
+                "Horário da Sessão": "16:10",
+                "Preço": ["Inteira: R$50,00", "Meia: R$25,00"]
+            }
+        }
+    ],
+    "Marcas" : [
+        {
+            "0" : {
+                "Nome" : "Gucci",
+                "Produtos" : "Roupas e Tênis",
+                "Avaliação" : "3,58/5"
+            },
+            "1" : {
+                "Nome" : "JBL",
+                "Produtos" : "Caixas de som e Fones",
+                "Avaliação" : "4,7/5"
+            },
+            "2" : {
+                "Nome" : "Golf Wang",
+                "Produtos" : ["Roupas", "Tênis", "Acessórios", "mais"],
+                "Avaliação" : "4,8/5"
+            },
+            "3": {
+                "Nome" : "Adidas",
+                "Produtos" : "Roupas, Tênis e Acessórios",
+                "Avaliação" : "4,8/5"
+            }
+        }
+    ]
+
+}
+]
